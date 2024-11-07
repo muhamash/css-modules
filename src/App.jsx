@@ -1,6 +1,6 @@
 // import '../src//css/1.css'
 // import './App.css'
-import './css/dark.css'
+// import './css/dark.css'
 // import '../src//css/2.module.css'
 import Tutorial from './components/Tutorial'
 
